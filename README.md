@@ -20,4 +20,4 @@ Check out my projects used in this site:
 
 https://1v1lol.proxifiedbrowser.repl.co/
 
-Please give credit, that's all I ask for, thank you for using **Doggo Hub!
+Please give credit, that's all I ask for, thank you for using **Doggo Hub**!
