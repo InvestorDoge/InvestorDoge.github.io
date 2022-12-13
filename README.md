@@ -17,3 +17,9 @@ There will be a homescreen showing several choices of games embed once clicked o
 To go to the official github site go here: https://investordoge.github.io/
 
 Thank you for visiting for those who visited and checked out my site.
+
+Check out my projects used in this site:
+
+https://1v1lol.proxifiedbrowser.repl.co/
+
+**Please give credit, that's all I ask for, thank you for using Doggo Hub!**
