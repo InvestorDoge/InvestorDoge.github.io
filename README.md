@@ -18,6 +18,6 @@ To go to the official github site go here: https://investordoge.github.io/
 
 Check out my projects used in this site:
 
-https://1v1lol.proxifiedbrowser.repl.co/
+https://www.browserfps.repl.co/
 
 **Give credit**
