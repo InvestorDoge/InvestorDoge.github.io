@@ -1,4 +1,4 @@
-# Doggo Hub
+# Doggo Hub (Beta)
 
 **Doggo Hub**
 
