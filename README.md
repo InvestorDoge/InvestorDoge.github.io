@@ -4,7 +4,7 @@
 
 *Doggo Hub is a beta and will add more games soon.*
 
-There will be a homescreen showing several choices of games embed once clicked on!
+Very few games at the moment, will expand in size over time.
 
 To go to the official github site go here: https://investordoge.github.io/
 
