@@ -13,3 +13,8 @@ Check out my projects used in this site:
 https://www.browserfps.repl.co/
 
 **Give credits please!**
+
+
+**Editor Note**
+
+*I swear to god there is going to be like 1000 files in here 💀* -Investor Doge
