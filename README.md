@@ -1,6 +1,9 @@
-# Doggo Hub: 1v1.lol embed!
+# Doggo Hub
 
-***Doggo Hub is a beta and will add more games soon.***
+**Doggo Hub**
+
+*Doggo Hub is a beta and will add more games soon.*
+
 
 
 
