@@ -20,4 +20,4 @@ Check out my projects used in this site:
 
 https://www.browserfps.repl.co/
 
-**Give credit**
+**Give credits please!**
