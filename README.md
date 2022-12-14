@@ -1,8 +1,8 @@
-# Doge X (Beta)
+# Doge Club (Beta)
 
-**Doge X**
+**Doge Club**
 
-*Doge X is a beta and will add more games soon.*
+*Doge Club is a beta and will add more games soon.*
 
 Very few games at the moment, will expand in size over time.
 
@@ -17,4 +17,4 @@ https://www.browserfps.repl.co/
 
 **Editor Note**
 
-*I swear to god there is going to be like 1000 edits in here 💀* -Investor Doge
+*I swear to god there is going to be like 1000 commits in here 💀* -Investor Doge
