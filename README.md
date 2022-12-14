@@ -1,8 +1,8 @@
-# Doggo Hub (Beta)
+# Doge X (Beta)
 
-**Doggo Hub**
+**Doge X**
 
-*Doggo Hub is a beta and will add more games soon.*
+*Doge X is a beta and will add more games soon.*
 
 Very few games at the moment, will expand in size over time.
 
