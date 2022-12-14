@@ -17,4 +17,4 @@ https://www.browserfps.repl.co/
 
 **Editor Note**
 
-*I swear to god there is going to be like 1000 files in here 💀* -Investor Doge
+*I swear to god there is going to be like 1000 edits in here 💀* -Investor Doge
