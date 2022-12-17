@@ -1,41 +1,94 @@
+<!DOCTYPE html>
 <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <meta name="title" content="Doge Club">
 <meta name="description" content="Doge Club 🐕">
 <link rel="icon" type="image/ico+xml" href="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.png" />
-</html>
 <title>Doge Club</title>
-
-  <head>
+</html>
 <style>
-
-
-body{
-  text-align:center;
-Background-color: black;
-  }
-
-html{
-	Background-color: black;
-	Background-size: cover;
+body {
+  font-family: "Lato", sans-serif;
 }
 
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
 
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
 
+.sidenav a:hover {
+  color: #f1f1f1;
+}
 
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
 
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
 
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
 
-  </style>
-  </head>
+  
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="https://investordoge.github.io/krunker.html">Krunker</a>
+  <a href="https://investordoge.github.io/adcap.html">AdCap</a>
+  <a href="https://investordoge.github.io/cookieclicker.html">Cookie Clicker</a>
+  <a href="https://investordoge.github.io/1v1lol.html">1v1 lol</a>
+  <a href="https://investordoge.github.io/zombsroyale.html">Zombs Royale</a>
+  <a href="https://investordoge.github.io/shellshock.html">Shell Shockers</a>
+</div>
 
-<center>
-<a href="https://InvestorDoge.github.io/krunker.html" title="Krunker.io Unblocked"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/krunker.png" height="100" width="100"></a>
-  <a href="https://InvestorDoge.github.io/adcap.html" title="AdCap Unblocked"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/adcap.png" height="100" width="100"></a>
-<a href="https://InvestorDoge.github.io/cookieclicker.html" title="Cookie Clicker Unblocked"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/cookieclicker.png" height="100" width="100"></a>
-  <a href="https://InvestorDoge.github.io/1v1lol.html" title="1v1lol Unblocked"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/1v1lol.png" height="100" width="100"></a>
-<a href="https://InvestorDoge.github.io/zombsroyale.html" title="Zombs Royale Unblocked"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/zombsroyale.png" height="100" width="100"></a>
-<a href="https://InvestorDoge.github.io/shellshock.html" title="Shell Shockers Unblocked"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/shellshock.png" height="100" width="100"></a>
-</center>
+<div id="main">
+  
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+</div>
 
-</center>
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
 
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+</script>
+   
+</body>
+</html> 
+
+<html>
