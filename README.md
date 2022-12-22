@@ -14,6 +14,10 @@ https://www.browserfps.repl.co/
 
 https://www.shellshockio.repl.co/
 
+https://slope.proxifiedbrowser.repl.co/
+
+https://1v1lol.proxifiedbrowser.repl.co/
+
 **Give credits please!**
 
 *Code for fullscreened/embed games* : <iframe href="https://" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px;border:none;></iframe>
