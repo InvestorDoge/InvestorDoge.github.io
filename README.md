@@ -5,11 +5,7 @@
 
 To go to the official github site go here: https://investordoge.github.io/
 
-https://www.shellshockio.repl.co/
-
 https://slope.proxifiedbrowser.repl.co/
-
-https://1v1lol.proxifiedbrowser.repl.co/
 
 https://littlebigsnake.proxifiedbrowser.repl.co/
 
