@@ -20,7 +20,7 @@ https://1v1lol.proxifiedbrowser.repl.co/
 
 **Give credits please!**
 
-<embed src="https://github.com/InvestorDoge/InvestorDoge.github.io/blob/main/updates.md" width="100%" height="100%"></embed>
+<iframe src="https://github.com/InvestorDoge/InvestorDoge.github.io/blob/main/updates.md" width="100%" height="100%"></iframe>
 
 *Code for fullscreened/embed games* : <iframe href="https://" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px;border:none;></iframe>
 
