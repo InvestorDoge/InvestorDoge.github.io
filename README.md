@@ -1,16 +1,9 @@
-# Doge Club (Beta)
+# Doge Club
 
 **Doge Club**
 
-*Doge Club is a beta and will add more games soon.*
-
-Very few games at the moment, will expand in size over time.
 
 To go to the official github site go here: https://investordoge.github.io/
-
-Check out my projects used in this site:
-
-https://www.browserfps.repl.co/
 
 https://www.shellshockio.repl.co/
 
@@ -36,4 +29,6 @@ Little Big Snake
 
   # Project Links
   
-<p dir="auto"><a href="https://www.browserfps.repl.co" rel="nofollow"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.png" wdith="50" height="50" alt="Run on Replit" data-canonical-src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.png" title="Krunker.io" style="max-width: 100%;"></https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.pnga></p>
+<p dir="auto"><a href="https://www.browserfps.repl.co" rel="nofollow"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/redirect.png" wdith="50" height="50" alt="Run on Replit" data-canonical-src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/redirect.png" title="Krunker.io" style="max-width: 100%;"></https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.pnga></p>
+
+<p dir="auto"><a href="https://1v1lol.proxifiedbrowser.repl.co/" rel="nofollow"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/redirect2.png" wdith="50" height="50" alt="Run on Replit" data-canonical-src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/redirect2.png" title="Krunker.io" style="max-width: 100%;"></https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.pnga></p>
