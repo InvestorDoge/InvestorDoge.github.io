@@ -36,4 +36,4 @@ Little Big Snake
 
   # Project Links
   
-<p dir="auto"><a href="https://www.browserfps.repl.co" rel="nofollow"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.png" alt="Run on Replit" data-canonical-src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.png" title="Krunker.io" style="max-width: 100%;"></https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.pnga></p>
+<p dir="auto"><a href="https://www.browserfps.repl.co" rel="nofollow"><img src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.png" wdith="50" height="50" alt="Run on Replit" data-canonical-src="https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.png" title="Krunker.io" style="max-width: 100%;"></https://raw.githubusercontent.com/InvestorDoge/InvestorDoge.github.io/main/0_favicon.pnga></p>
