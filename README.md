@@ -9,15 +9,9 @@ To go to the official github site go here: https://investordoge.github.io/
 
   # Updates
 
-***Doge Club Update 6***
+***Doge Club Update 7***
 
-New:
-
-Bitlife
-
-Gun Spin
-
-Little Big Snake
+Game Launcher
 
   # Project Links
   
