@@ -9,9 +9,13 @@ To go to the official github site go here: https://investordoge.github.io/
 
   # Updates
 
-***Doge Club Update 7***
+***Doge Club Update 8***
 
-Game Launcher
+New:
+
+Venge.io
+
+Mad Gunz
 
   # Project Links
   
